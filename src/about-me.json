@@ -6,16 +6,82 @@
   },
   "age": "29",
   "location": "Toronto, Canada",
+  "experience": [
+    {
+      "title": "Software Engineer III",
+      "company": "LoyaltyOne - Air Miles",
+      "type": "Full-time",
+      "location": "Toronto, Canada",
+      "startDate": "2020-07-20T13:00:00.000Z",
+      "present": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "SkipTheDishes",
+      "type": "Full-time",
+      "location": "Winnipeg, Canada",
+      "startDate": "2018-07-30T13:00:00.000Z",
+      "endDate": "2020-07-17T22:00:00.000Z"
+    },
+    {
+      "title": "Software Developer Analyst",
+      "company": "Itaú",
+      "type": "Full-time",
+      "location": "São Paulo, Brazil",
+      "startDate": "2017-03-01T17:00:00.000Z",
+      "endDate": "2018-07-06T15:00:00.000Z"
+    },
+    {
+      "title": "Teacher",
+      "company": "FIEC",
+      "type": "Seasonal",
+      "location": "Indaiatuba, Brazil",
+      "startDate": "2014-05-05T22:00:00.000Z",
+      "endDate": "2015-05-05T22:00:00.000Z"
+    },
+    {
+      "title": "Java Developer",
+      "company": "Linked RH",
+      "type": "Full-time",
+      "location": "Indaiatuba, Brazil",
+      "startDate": "2013-03-11T11:00:00.000Z",
+      "endDate": "2017-02-20T20:00:00.000Z"
+    },
+    {
+      "title": "Junior Java Developer",
+      "company": "Carreira Muller",
+      "type": "Full-time",
+      "location": "Indaiatuba, Brazil",
+      "startDate": "2011-02-01T11:00:00.000Z",
+      "endDate": "2013-03-08T20:00:00.000Z"
+    },
+    {
+      "title": "Junior C# Developer",
+      "company": "DBCorp",
+      "type": "Full-time",
+      "location": "Indaiatuba, Brazil",
+      "startDate": "2009-06-01T11:00:00.000Z",
+      "endDate": "2011-01-31T20:00:00.000Z"
+    },
+    {
+      "title": "Software Developer Intern",
+      "company": "Carreira Muller",
+      "type": "Part-time",
+      "location": "Indaiatuba, Brazil",
+      "startDate": "2008-11-03T15:00:00.000Z",
+      "endDate": "2009-04-30T19:00:00.000Z"
+    }
+  ],
   "education": [
     {
       "level": "MBA",
       "major": "Software Architecture",
       "institution": "IGTI",
-      "place": "Sao Paulo, Brazil",
+      "place": "São Paulo, Brazil",
       "year": 2017
     },
     {
-      "level": "Technician",
+      "level": "Junior College",
       "major": "Computer Graphics",
       "institution": "Max Plank",
       "place": "Indaiatuba, Brazil",
@@ -29,16 +95,15 @@
       "year": 2012
     },
     {
-      "level": "Technician",
+      "level": "Junior College",
       "major": "Systems Information",
       "institution": "FIEC",
       "place": "Indaiatuba, Brazil",
       "year": 2008
     }
   ],
-  "experience": [{}],
   "skills": {
-      "tech": [],
-      "soft": []
+    "tech": [],
+    "soft": []
   }
 }
