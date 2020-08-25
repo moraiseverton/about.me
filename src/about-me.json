@@ -1,0 +1,44 @@
+{
+  "name": {
+    "firstName": "Everton",
+    "lastName": "Morais",
+    "shortName": "Ever"
+  },
+  "age": "29",
+  "location": "Toronto, Canada",
+  "education": [
+    {
+      "level": "MBA",
+      "major": "Software Architecture",
+      "institution": "IGTI",
+      "place": "Sao Paulo, Brazil",
+      "year": 2017
+    },
+    {
+      "level": "Technician",
+      "major": "Computer Graphics",
+      "institution": "Max Plank",
+      "place": "Indaiatuba, Brazil",
+      "year": 2014
+    },
+    {
+      "level": "Bachelor",
+      "major": "Computer Science",
+      "institution": "Faculdade Anhanguera de Indaiatuba",
+      "place": "Indaiatuba, Brazil",
+      "year": 2012
+    },
+    {
+      "level": "Technician",
+      "major": "Systems Information",
+      "institution": "FIEC",
+      "place": "Indaiatuba, Brazil",
+      "year": 2008
+    }
+  ],
+  "experience": [{}],
+  "skills": {
+      "tech": [],
+      "soft": []
+  }
+}
